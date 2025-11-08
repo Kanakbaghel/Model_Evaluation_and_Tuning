@@ -2,7 +2,13 @@
 <p align="center"><em>TechNest Task 6 : Student's Performance Data </em></p>
 
 ---
+ _Explore my more TechNest Tasks_ [Here](https://github.com/Kanakbaghel/TechNest-Internship)
+   -----------
+  
+  <img width="900" height="415" alt="image" src="https://github.com/user-attachments/assets/a343f8d3-737a-4e07-b89d-07e52cbb725e" />
 
+  
+-----------
 This project showcases a comparative analysis of several machine learning models, focusing on robust evaluation techniques, hyperparameter optimization, and best model selection using a real-world dataset. Clear visuals and interpretability drive the entire notebook.
 
 ***
