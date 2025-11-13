@@ -100,28 +100,33 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 - Hyperparameter tuning significantly improved selected model's performance
 - Handy notebook template for future model benchmarking
 
-***
+---
 
-## Next Steps
+## Want to Help?
 
-- Try additional models or ensemble methods (e.g., XGBoost, LightGBM)
-- Deploy the top model via an API or web dashboard
-- Expand automated tuning for extra efficiency
-- Share findings with stakeholders
-
-***
-
-## Contributing
-
-Feedback, issues, and pull requests are welcome!  
-Please use [issues](https://github.com/Kanakbaghel/Model_Evaluation_and_Tuning/issues) for suggestions.
-
-***
-
-## Contact
-
-For questions or collaborations, connect with [Kanakbaghel](https://github.com/Kanakbaghel).
+Love this project? Awesome! Here's how you can contribute:
+- **Report Issues:** Spot a bug? Open an [issue](https://github.com/Kanakbaghel/Data_Pipeline_Development/issues).
+- **Suggest Ideas:** Have a cool tweak? Share it!
+- **Code Together:** Send a pull request with improvements.
 
 ---
-> _“Data becomes meaningful when it tells a story that leads to better decisions.”_  
-<p align="center"><em>Crafted with ♥ by <strong>Kanak Baghel</strong> |  <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em></p>
+
+## Get in Touch
+
+Got questions or want to chat about data? Reach out:
+- **GitHub:** [Kanakbaghel](https://github.com/Kanakbaghel)
+- **LinkedIn:** [Kanak Baghel](https://www.linkedin.com/in/kanakbaghel)
+
+---
+
+## License
+
+This project is open-source under the MIT License. Feel free to use, share, and build on it!
+
+---
+
+> _“Data becomes meaningful when it tells a story that leads to better decisions.”_
+
+<p align="center">
+  <em>Crafted with by <strong>Kanak Baghel</strong> | <a href="https://www.linkedin.com/in/kanakbaghel">LinkedIn</a></em>
+</p>
